@@ -1,2 +1,1 @@
-# Modulo2
-Este es un repositorio del módulo 2 del Curso de GitHub
+Este es un proyecto para crear un repositorio y clonarlo de GitHub a mi computadora
